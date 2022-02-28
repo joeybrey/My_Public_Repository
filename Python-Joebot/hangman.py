@@ -1,5 +1,3 @@
-#MAKE GAMEBOT WITH MAD LIBS AND NUMBER GUESSING GAME
-
 import random
 
 correct = []
