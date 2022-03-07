@@ -1,0 +1,24 @@
+a {
+    color:green;
+}
+
+h4 {
+    background-color: gray;
+}
+
+a:hover {
+    color: black;
+}
+
+li {
+    list-style: square;
+    font-family: helvetica;
+}
+
+p {
+    font-family: helvetica;;
+}
+
+head {
+    font-family: georgia;
+}
