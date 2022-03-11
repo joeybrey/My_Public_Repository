@@ -1,13 +1,82 @@
+* {
+    color: black;
+    background-color: seashell;
+}
+
+head {
+    font-family: georgia;
+}
+
+#headshot {
+    width: 190px;
+    height: 190px;
+    border: 1px solid black;
+    border-radius: 50%;
+    margin-left: 40px;
+}
+
+#name {
+    color: navy;
+}
+
+#job-title {
+    margin: 5px;
+    color: navy;
+}
+
+#statement {
+    margin: 45px 10px;
+}
+
+#software-experience {
+    margin: 10px;
+}
+
+#resume {
+    text-align: center;
+    margin: 50px;
+}
+
+#resume a {
+    font-size: 18px;
+    background-color: black;
+    border: 1px solid green;
+    border-radius: 5px;
+    padding: 7.5px;
+}
+
+#resume a:hover {
+    background-color: green;
+    border: 1px solid black;
+}
+
+#contact-info {
+    text-align: center;
+}
+
+#contact-info a {
+    margin: 10px;
+    padding: 10px;
+    border: 1px solid green;
+    background-color: black;
+    border-radius: 10%;
+}
+
+#contact-info a:hover {
+    border: 1px solid black;
+    background-color: green;
+}
+
 a {
     color:green;
 }
 
-h4 {
-    background-color: gray;
-}
-
 a:hover {
     color: black;
+}
+
+h4 {
+    background-color: gray;
 }
 
 li {
@@ -17,8 +86,4 @@ li {
 
 p {
     font-family: helvetica;;
-}
-
-head {
-    font-family: georgia;
 }
