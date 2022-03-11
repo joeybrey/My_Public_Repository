@@ -38,17 +38,24 @@ head {
 }
 
 #resume a {
+    color: black;
     font-size: 18px;
-    background-color: black;
-    border: 1px solid green;
+    background-color: green;
+    border-top: 1.5px solid gray;
+    border-right: 1.5px solid black;
+    border-bottom: 1.5px solid black;
+    border-left: 1.5px solid gray;
     border-radius: 5px;
     padding: 7.5px;
 }
 
 #resume a:hover {
-    background-color: green;
-    border: 1px solid black;
-}
+    color: green;
+    background-color: black;
+    border-top: 1.5px solid black;
+    border-right: 1.5px solid gray;
+    border-bottom: 1.5px solid white;
+    border-left: 1.5px solid gray;}
 
 #contact-info {
     text-align: center;
@@ -57,14 +64,22 @@ head {
 #contact-info a {
     margin: 10px;
     padding: 10px;
-    border: 1px solid green;
-    background-color: black;
+    border-top: 1.5px solid gray;
+    border-right: 1.5px solid black;
+    border-bottom: 1.5px solid black;
+    border-left: 1.5px solid gray;   
+    background-color: green;
+    color: black;
     border-radius: 10%;
 }
 
 #contact-info a:hover {
-    border: 1px solid black;
-    background-color: green;
+    color: green;
+    background-color: black;
+    border-top: 1.5px solid black;
+    border-right: 1.5px solid gray;
+    border-bottom: 1.5px solid white;
+    border-left: 1.5px solid gray;}    background-color: green;
 }
 
 a {
