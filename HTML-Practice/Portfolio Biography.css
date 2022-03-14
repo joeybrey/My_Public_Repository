@@ -79,7 +79,8 @@ head {
     border-top: 1.5px solid black;
     border-right: 1.5px solid gray;
     border-bottom: 1.5px solid white;
-    border-left: 1.5px solid gray;}    background-color: green;
+    border-left: 1.5px solid gray;    
+    background-color: green;
 }
 
 a {
